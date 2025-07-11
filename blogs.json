@@ -1,5 +1,20 @@
 [
     {
+        "id": 2,
+        "title": "The Fall of the Elephant: Why NPP Lost the 2024 Election",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
+        "category": "News",
+        "author": "Emmanuel Appiagyei",
+        "authorPic": "author1.jpg",
+        "published_date": "October 4, 2023",
+        "reading_time": "8 minutes",
+        "content": "The 2024 general election in Ghana was not merely a contest between political parties; it was a referendum on trust, performance, and the soul of a nation weary of promises unmet. The defeat of the New Patriotic Party (NPP), once regarded as the most formidable and organized political movement in Ghana’s Fourth Republic, sent shockwaves through its core base and beyond. A party that had gained popularity through promises of economic reform, free senior high school education, and a commitment to good governance saw its support crumble under the weight of economic hardship, broken narratives, internal divisions, and public disenchantment.\n To truly understand why the NPP lost, one must go beyond surface analysis and delve deeply into the multi-layered issues that plagued the party in its final years in government.\n At the heart of NPP’s collapse was the economy. What began as an era of high hope—spearheaded by a team of perceived technocrats—gradually dissolved into widespread frustration and despair. Vice President Dr. Mahamudu Bawumia, once hailed as the “economic Messiah” and the architect of the NPP’s digital and financial transformation agenda, became the target of national disappointment. His earlier statement—“If the fundamentals are weak, the exchange rate will expose you”—boomeranged back to haunt the administration. Under his stewardship, the Ghana cedi depreciated rapidly, sometimes trading between 12 and 14 cedis to a dollar, contradicting the very fundamentals he once emphasized. Inflation soared, the cost of living became unbearable for ordinary Ghanaians, and debt levels ballooned to unprecedented heights, leading to an IMF bailout that exposed the fragility of the economy. Many citizens began to ask: if the economy was truly in competent hands, why did we end up here?\n This economic crisis was not only a fiscal issue but a perception crisis. People saw a government that preached prudence but practiced excess. While the Free SHS policy remained a popular initiative, its implementation was fraught with challenges—food shortages in schools, overcrowded classrooms, and complaints from teachers and parents alike. For many Ghanaians, the cost of living and the erosion of their purchasing power outweighed the perceived benefits of government policies. Economic hardship swallowed the goodwill that Free SHS might have generated.\n Equally damaging was the issue of governance and ethical credibility. Under President Akufo-Addo’s administration, hopes were high that corruption would be tackled decisively. However, as the years passed, Ghanaians witnessed what they believed to be a growing culture of impunity. Key institutions lost their independence, and many corruption cases were either unprosecuted or met with unsatisfactory resolutions. Reports from reputable organizations such as Afrobarometer and Transparency International reflected declining public trust in the presidency and judiciary. The perception of an “all-knowing, untouchable government” took root, undermining NPP’s long-held image as a party of principle and discipline.",
+        "tags": [
+            "News",
+            "Health"
+        ]
+    },
+    {
         "id": 3,
         "title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
         "image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
